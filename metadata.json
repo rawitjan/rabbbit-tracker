@@ -1,0 +1,6 @@
+{
+  "name": "Трекер привычек",
+  "description": "Элегантный трекер привычек для отслеживания ежедневных целей, серий побед и прогресса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
